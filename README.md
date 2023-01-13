@@ -8,6 +8,7 @@ Our official encryption system, which, by the way, called Exprytion is based on 
 ### Who we are? 🤨
 
 #### Main Algorithm, Founder of The BitDashr Project
+
 Eitan Biletski ( aka; Tenne ) @TEnLOcODE.
 "Hi, I'm Eitan ( also knowen as Tenne ).
 I'm A UX/UI Designer. JavaScript, Python and Lua Programmer From Israel.
