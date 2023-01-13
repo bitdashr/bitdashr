@@ -13,6 +13,6 @@ Eitan Biletski ( aka; Tenne ) @TEnLOcODE.
 "Hi, I'm Eitan ( also knowen as Tenne ).
 I'm A UX/UI Designer. JavaScript, Python and Lua Programmer From Israel.
 I'm Currently learning in Hanisui School.
-Graduated from Tekki Uni and Mim0 courses.
-I started desiging the Exprytion encryption algorithm when I saw
-how many secury breaches there is, nowdays."
+Graduated from Tekkie Uni and Mim0 courses.
+I started designing the Exprytion encryption algorithm when I saw
+how many security breaches there is, nowdays."
